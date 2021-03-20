@@ -1,0 +1,225 @@
+<style>
+
+	body, html
+	{
+		font-size: 16px;
+	}
+
+	.nav__item
+	{
+		padding: 15px 25px;
+		margin: 2px;
+	}
+
+	.main__content
+	{
+		width: 80% ;
+		margin: 0 auto ;
+	}
+
+	.ui-button
+	{
+		padding: 10px 25px;
+	}
+
+	.nav {
+		border: 1px solid black;
+		float: left;
+		background: #333;
+	}
+
+	.name {
+		background-color: #F5F5F5;
+		border: 1px solid #DCDCDC;
+		border-radius: 5px;
+		padding-top: 30px;
+		padding-bottom: 30px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		font-size: 25px;
+		text-align: center;
+		position: relative;
+	}
+
+	.nameRAM {
+		border: 1px solid #FFF5EE;
+		background-color: #FFFFF0;
+		box-shadow: 0 0 20px #696969;
+		margin-left: 500px;
+		margin-right: 505px;
+		margin-top: 5px;
+		margin-bottom: -10px;
+		border-radius: 150px 150px;
+	}
+
+	.nameRAM:hover {
+		border: 1px solid #FFF5EE;
+		background-color: #FFFFF0;
+		box-shadow: 0 0 10px #696969;
+		margin-left: 500px;
+		margin-right: 505px;
+		margin-top: 5px;
+		margin-bottom: -10px;
+		border-radius: 150px 150px;
+	}
+
+	/*.round {
+		width: 150px;
+		height: 150px;
+		border-radius: 100px;
+		border: 3px solid #808080;
+		box-shadow: 0 0 13px #333;
+		object-fit: cover;
+		margin-top: -450px;
+		margin-right: 800px; -- стиль на аватарку   */
+		
+	}  
+
+	.who {
+		margin-top: 30px;
+		padding-bottom: 0px;
+		text-align: center;
+		clear: left;
+	}
+
+	.VK {
+		text-decoration: none;
+		color: #333;
+	}
+
+	.sas  {
+		margin-top: 0px;
+		border: 1px solid #696969;
+		background-color: #808080;
+		float: left;
+	    color: black;
+	    font-family: sans-serif;
+	    font-size: 15px;
+	    text-align: center;
+	    padding: 14px 20px;
+	    text-decoration: none;
+	}
+
+	.sas:hover  {
+		margin-top: 0px;
+		border: 1px solid #696969;
+		background-color: #A9A9A9;
+		float: left;
+	    color: black;
+	    font-family: sans-serif;
+	    text-align: center;
+	    padding: 14px 20px;
+	    text-decoration: none;
+	
+	}
+
+	.MainMenu {
+		border: 1px solid #696969;
+		border-radius: 5px;
+		background-color: #696969;
+		padding-bottom: 52px;
+	}
+
+	.menu-block {
+		border: 2px solid black;
+		width: 130px;
+		font-size: 30px;
+		font-family: sans-serif;
+		line-height: center;
+		color: white;
+	}
+
+	body {
+		font-size: 18px;
+		line-height: 1.5;
+		color: #333;
+		font-family: sans-serif; 
+		background-color: #FFF0F5;
+
+		/*background-size: 1920px 1080px;
+		background-color: rgba(255,255,255,0.5);
+		background-image: url(https://i.imgur.com/GFbg96Q.jpg); на случай фона*/
+
+	}
+
+	.back {
+		margin-top: 10px;
+		border-right: 500px;
+		padding-bottom: 10%;
+		border: 1px solid #DCDCDC;
+		background-color: #F5F5F5;
+		border-radius: 5px;
+		
+	}
+
+	.mainSign {
+		text-align: center;
+		font-family: sans-serif;
+		font-size: 40px;
+		margin-top: -20px;
+	}
+
+	section {
+		margin: 50px 0px 50px 0px;
+		padding: 0px 50px 0px 50px;
+	}
+
+	section > h2 {
+		padding: 0;
+		text-align: left;
+		border: none;
+		max-width: 720px;
+	}
+
+	li {
+		margin-bottom: 10px;
+	}
+
+	.gadz1 {
+		vertical-align: top;
+		width: 400px;
+		height: 300px;
+	}
+
+	.nameGADZ {
+		font-family: sans-serif;
+		color: #333;
+		margin-left: 10px;
+	}
+
+	.description {
+		font-family: sans-serif;
+		font-size: 25px;
+	}
+
+	.frames {
+		border: 1px solid #F5F5DC;
+		border-radius: 50px;
+		padding: 5px 5px 5px 5px;
+		background-color: #F5F5DC;
+		box-shadow: 0 0 10px #696969;
+	}
+
+	.frameMUS {
+		border: 2px solid #FFFFF0;
+		background-color: #F5F5DC;
+		box-shadow: 0 0 10px #696969;
+		border-radius: 50px;
+		padding: 5px 5px 5px 5px;
+		margin: 10px 5px 5px 80px;
+	}
+
+	.audioGADZ {
+		float: left;
+		clear: left;
+	}
+
+	.gadza2 {
+		margin-top: 280px;
+	}
+
+	.gadza3 {
+		margin-top: 280px;
+	}
+
+</style>
